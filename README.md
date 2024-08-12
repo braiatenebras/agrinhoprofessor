@@ -1,4 +1,4 @@
-## Agrinho ##
+# Agrinho #
 
 
 Este é o repositório do site "Agrinho", desenvolvido para destacar temas importantes relacionados ao desenvolvimento rural e à sustentabilidade. O site aborda tópicos como erradicação da pobreza, oportunidades no campo, empoderamento econômico, integração de cadeias de valor, e infraestrutura básica.
@@ -14,14 +14,15 @@ O site "Agrinho" foi criado para promover a conscientização sobre a importânc
 * Empoderamento Econômico: Análise de como o empoderamento econômico pode transformar vidas e comunidades.
 * Integração de Cadeias de Valor: Explicação sobre a importância da integração de cadeias de valor para a eficiência e sustentabilidade.
 * Infraestrutura Básica: Destaque para a importância de uma infraestrutura básica robusta para o desenvolvimento rural.
-* Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * HTML5: Estrutura básica do site.
 * CSS3: Para estilização e layout do site, com o arquivo de estilos separado (style.css).
 * Imagens: As imagens são usadas para ilustrar e complementar o conteúdo textual, armazenadas na pasta assets.
 
 Você pode acessar o site clicando no link no repositório, ou no seguinte link:
+* https://github.com/braialindaogostoso/Agrinho
 
-# Autor #
+## Autor #
 * Bryan Kauan Fagundes - 2°C
 
 
